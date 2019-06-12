@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721743745119",
+    "firebase_url": "https://plantpi-f9f46.firebaseio.com",
+    "project_id": "plantpi-f9f46",
+    "storage_bucket": "plantpi-f9f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721743745119:android:736eb1ae863b0cd3",
+        "android_client_info": {
+          "package_name": "com.example.patrick.plant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721743745119-tpsv04768g5ob40mb1ue9oko24rkdpea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patrick.plant_app",
+            "certificate_hash": "a4f38ae16c33af591a01bdc06329ea4ac5d6bd6a"
+          }
+        },
+        {
+          "client_id": "721743745119-tql20roq9t3j8sql0579jm4v183nfg5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6JroDF_CJIYgLbDlKvk2VkOTvoFQksPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721743745119-tql20roq9t3j8sql0579jm4v183nfg5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
